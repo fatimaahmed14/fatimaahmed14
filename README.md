@@ -11,11 +11,11 @@
 
 - 💬 **Recently graduated from a 6-month software development training bootcamp**
 
-- 👨‍💻 My porfolio is here : [n/a](n/a)
+- 👨‍💻 My porfolio is here : [in the works...](n/a)
 
 - 📫 How to reach me **fxtimaahmed14@gmail.com**
 
-- 📄 You can find my CV here : [n/a](n/a)
+- 📄 You can have a look at my CV : [here](https://app.enhancv.com/share/84191c20/?utm_medium=growth&utm_campaign=share-resume&utm_source=dynamic)
 
 - ⚡ **I can speak English, Hindi, Urdu + currently learning to speak Arabic**
 
