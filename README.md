@@ -7,11 +7,11 @@
 
 - 🔭 I’m working on **List it out (links for the client and server are pinned below)**
 
-- 🌱 I’m currently learning **python**
+- 🌱 I’m currently learning **Data Visualisation**
 
 - 💬 **Recently graduated from a 6-month software development training bootcamp**
 
-- 👨‍💻 My porfolio is here : [in the works...](n/a)
+- 👨‍💻 My porfolio is here : [in the works...](https://media.tenor.com/cctV9EvJdAoAAAAC/cat-laptop.gif)
 
 - 📫 How to reach me **fxtimaahmed14@gmail.com**
 
