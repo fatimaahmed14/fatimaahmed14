@@ -17,8 +17,6 @@
 
 - 📄 You can have a look at my CV : [here](https://app.enhancv.com/share/84191c20/?utm_medium=growth&utm_campaign=share-resume&utm_source=dynamic)
 
-- ⚡ **I can speak English, Hindi, Urdu + currently learning to speak Arabic**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/fatima-a-161697219" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fatima-a-161697219" height="30" width="40" /></a>
