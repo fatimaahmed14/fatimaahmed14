@@ -17,10 +17,9 @@
 
 - 📄 You can have a look at my CV : [here](https://app.enhancv.com/share/84191c20/?utm_medium=growth&utm_campaign=share-resume&utm_source=dynamic)
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me on LinkedIn:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/fatima-a-161697219" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fatima-a-161697219" height="30" width="40" /></a>
-<a href="https://discord.gg/fatima.a#2156" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="fatima.a#2156" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
