@@ -5,7 +5,7 @@
 <h1 align="center">Hi, I'm Fatima :)</h1>
 <h3 align="center">A full-stack developer who is eager to learn more</h3>
 
-- 🔭 I’m working on **List it out (links for the client and server are pinned below)**
+- 🔭 I’m working on **My portfolio [Using React + JS + HTML + CSS]**
 
 - 🌱 I’m currently learning **Data Visualisation**
 
