@@ -7,9 +7,7 @@
 
 - 🔭 I’m working on **My portfolio [Using React + JS + HTML + CSS]**
 
-- 🌱 I’m currently learning **Data Visualisation**
-
-- 💬 **Recently graduated from a 6-month software development training bootcamp**
+- 🌱 I’m currently learning **Python**
 
 - 👨‍💻 My porfolio is here : [in the works...](https://media.tenor.com/cctV9EvJdAoAAAAC/cat-laptop.gif)
 
